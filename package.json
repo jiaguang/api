@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "this is api site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiaguang/api.git"
+  },
+  "author": "jiaguang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiaguang/api/issues"
+  },
+  "homepage": "https://github.com/jiaguang/api#readme",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "supervisor": "^0.11.0"
+  }
+}
